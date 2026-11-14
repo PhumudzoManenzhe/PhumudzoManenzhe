@@ -36,7 +36,22 @@ I enjoy engineering and developing applications, exploring new technologies, and
 
 ## Featured Projects
 
-### 1. OpportuNet
+### 1. Olympiad Portal 2.0 — Backend Lead
+**Team Software Engineering Project | Wits University | 2026**
+
+Contributed as Backend Lead to the development of a web-based academic olympiad management platform connecting organisers, educators, schools and students.
+
+**Key contributions:**
+- Worked on backend authentication and access control to support secure user access and role-based functionality.
+- Developed and maintained API endpoints to support communication between the frontend and backend services.
+- Contributed to database design, structuring data and relationships to support the platform's core functionality.
+- Collaborated with the frontend team to integrate backend services into the wider application.
+
+**Technologies:** Node.js, Express.js, TypeScript, PostgreSQL, Prisma, Supabase, React.
+
+**Repository:** https://github.com/mavhila-mashudu/OlympiadPortal_2.0
+
+### 2. OpportuNet
 A platform designed to connect South African job seekers with learnerships and skills-development opportunities.
 
 - Focuses on opportunity discovery and application tracking.
@@ -44,7 +59,7 @@ A platform designed to connect South African job seekers with learnerships and s
 
 [View Repository](https://github.com/PhumudzoManenzhe/OportuNet)
 
-### 2. StokvelSA
+### 3. StokvelSA
 A web-based management platform for community savings groups (stokvels).
 
 - Helps members track contributions and payment schedules.
@@ -52,7 +67,7 @@ A web-based management platform for community savings groups (stokvels).
 
 [View Repository](https://github.com/PhumudzoManenzhe/StokvelSA)
 
-### 3. AI Snake Agent — Wits AI Competition
+### 4. AI Snake Agent — Wits AI Competition
 A Java-based intelligent agent developed for the Wits AI Snake Competition.
 
 - Implements A* pathfinding and board analysis.
