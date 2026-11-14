@@ -1,11 +1,11 @@
 
 # Hi, I'm Phumudzo Manenzhe 👋
 
-### Computer Science Student | Aspiring Software Engineer | Full-Stack Developer
+### WITS Computer Science Student | Aspiring Software Engineer | Software Developer & Engineer
 
 I'm a Computer Science undergraduate at the **University of the Witwatersrand (Wits)**, passionate about software engineering, problem-solving, and building technology that solves real-world problems.
 
-I enjoy developing applications, exploring new technologies, and turning ideas into practical software solutions. I'm currently expanding my experience in full-stack development, backend engineering, and software development.
+I enjoy engineering and developing applications, exploring new technologies, and turning ideas into practical software solutions. I'm currently expanding my experience in full-stack development, backend engineering, and software development.
 
 - BSc Computer Science student at Wits University (Expected 2028)
 - Interested in Software Engineering, Full-Stack and Backend Development
@@ -61,12 +61,9 @@ A Java-based intelligent agent developed for the Wits AI Snake Competition.
 
 [Explore my GitHub repositories](https://github.com/PhumudzoManenzhe?tab=repositories)
 
-### 4. University Application Platform — In Development
-Currently developing a platform intended to help Grade 12 learners apply to multiple universities through one application process.
-
 ---
 
-## 📚 Currently Learning
+## Areas of Interest
 
 - Software Engineering and System Design
 - Data Structures and Algorithms
