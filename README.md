@@ -1,5 +1,5 @@
 
-# Hi, I'm Phumudzo Manenzhe 👋
+#Phumudzo Manenzhe here
 
 ### WITS Computer Science Student | Aspiring Software Engineer | Software Developer & Engineer
 
