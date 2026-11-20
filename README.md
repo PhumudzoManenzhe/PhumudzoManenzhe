@@ -1,5 +1,4 @@
-
-#Phumudzo Manenzhe here
+### PHUMUDZO MANENZHE HERE,
 
 ### WITS Computer Science Student | Aspiring Software Engineer | Software Developer & Engineer
 
